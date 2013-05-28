@@ -311,7 +311,6 @@ var
   ShareCount, i, j: Integer;
   DriverID, DriverPath : string;
   LocalWidth, LocalHistoryHeigh : Integer;
-  IsHideApp : Boolean;
   FrameCaption : string;
   LocalFolder, NetworkFolder : string;
   HistoryCount : Integer;
@@ -364,7 +363,6 @@ try
 
     // ÊÇ·ñÒþ²Ø´°¿Ú
   IsHideApp := IniFile.ReadBool( Ini_MainForm, Ini_MainFormHide, False );
-  frmMain.IsHideApp := IsHideApp;
   frmMain.miCloseHide.Checked := IsHideApp;
   frmMain.miCloseExit.Checked := not IsHideApp;
 except
@@ -762,15 +760,22 @@ end;
 procedure TFacePageButtonApi.Add(DriverID, DriverPath: string);
 var
   sbDriver : TSpeedButton;
+  DriverName : string;
 begin
+  DriverName := MyFilePath.getDriverName( DriverPath );
+  if Length( Ansistring( DriverName ) ) > 16 then
+  begin
+    DriverName := '(' + copy( Ansistring( DriverName ), 1, 10 ) + '..)';
+    DriverName := Copy( DriverPath, 1, length( DriverPath ) - 1 ) + DriverName;
+  end;
+
   sbDriver := TSpeedButton.Create( plToolBar );
   sbDriver.Parent := plToolBar;
   sbDriver.Align := alLeft;
-  sbDriver.Width := 85;
+  sbDriver.Width := 100;
   sbDriver.Layout := blGlyphTop;
-  sbDriver.Caption := DriverPath;
+  sbDriver.Caption := DriverName;
   sbDriver.Hint := DriverID;
-  sbDriver.ShowHint := True;
   sbDriver.GroupIndex := 1;
   sbDriver.Glyph.LoadFromFile( MyAppData.getNetworkDriver );
   sbDriver.OnClick := SbButtonClick;
