@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/04/24 17:24:03.000.841,=C:\Users\Ming\Documents\RAD Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2013/05/08 11:47:33.000.653,=C:\Users\Ming\Documents\RAD Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2013/05/08 11:48:19.000.790,D:\工作项目\NetworkDriver\UMainForm.dfm=C:\Users\Ming\Documents\RAD Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2013/05/08 11:48:19.000.790,D:\工作项目\NetworkDriver\UMainForm.pas=C:\Users\Ming\Documents\RAD Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2013/05/08 11:48:32.000.509,D:\工作项目\NetworkDriver\NetworkDriver.dproj=C:\Users\Ming\Documents\RAD Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>2013/05/08 11:50:08.000.604,=D:\工作项目\NetworkDriver\Unit1.pas</Transaction>
+    <Transaction>2013/05/08 11:50:27.000.459,D:\工作项目\NetworkDriver\UFormSelect.pas=D:\工作项目\NetworkDriver\Unit1.pas</Transaction>
+    <Transaction>2013/05/08 11:50:27.000.459,D:\工作项目\NetworkDriver\UFormSelect.dfm=D:\工作项目\NetworkDriver\Unit1.dfm</Transaction>
+    <Transaction>2013/05/08 12:59:22.000.776,D:\工作项目\NetworkDriver\UFormSelectShare.dfm=D:\工作项目\NetworkDriver\UFormSelect.dfm</Transaction>
+    <Transaction>2013/05/08 12:59:22.000.776,D:\工作项目\NetworkDriver\UFormSelectShare.pas=D:\工作项目\NetworkDriver\UFormSelect.pas</Transaction>
+    <Transaction>2013/05/09 09:14:18.000.185,=D:\工作项目\NetworkDriver\Unit1.pas</Transaction>
+    <Transaction>2013/05/09 09:14:25.000.342,D:\工作项目\NetworkDriver\Unit1.pas=D:\工作项目\NetworkDriver\UMyUtils.pas</Transaction>
+    <Transaction>2013/05/09 13:42:25.000.582,=D:\工作项目\NetworkDriver\Unit1.pas</Transaction>
+    <Transaction>2013/05/09 13:42:39.000.277,D:\工作项目\NetworkDriver\UFrameDriver.dfm=D:\工作项目\NetworkDriver\Unit1.dfm</Transaction>
+    <Transaction>2013/05/09 13:42:39.000.277,D:\工作项目\NetworkDriver\UFrameDriver.pas=D:\工作项目\NetworkDriver\Unit1.pas</Transaction>
+    <Transaction>2013/05/09 14:56:05.000.779,=D:\工作项目\NetworkDriver\Unit1.pas</Transaction>
+    <Transaction>2013/05/09 14:56:22.000.559,D:\工作项目\NetworkDriver\UFrameDriverBtn.pas=D:\工作项目\NetworkDriver\Unit1.pas</Transaction>
+    <Transaction>2013/05/09 14:56:22.000.559,D:\工作项目\NetworkDriver\UFrameDriverBtn.dfm=D:\工作项目\NetworkDriver\Unit1.dfm</Transaction>
+    <Transaction>2013/05/10 09:23:41.000.758,=D:\工作项目\NetworkDriver\UThreadUtil.pas</Transaction>
+    <Transaction>2013/05/10 09:24:04.000.359,=D:\工作项目\NetworkDriver\Unit1.pas</Transaction>
+    <Transaction>2013/05/10 09:24:13.000.911,D:\工作项目\NetworkDriver\Unit1.pas=D:\工作项目\NetworkDriver\UMyFaceThread.pas</Transaction>
+    <Transaction>2013/05/10 10:29:25.000.349,=D:\工作项目\NetworkDriver\UFileSearch.pas</Transaction>
+    <Transaction>2013/05/13 09:35:19.000.115,=D:\工作项目\NetworkDriver\UFormZip.pas</Transaction>
+    <Transaction>2013/05/13 14:19:29.000.242,D:\工作项目\NetworkDriver\UFrameDriverBtn.pas=</Transaction>
+    <Transaction>2013/05/13 14:38:39.000.419,=D:\工作项目\NetworkDriver\UFormHistoryManage.pas</Transaction>
+    <Transaction>2013/05/13 14:39:31.000.544,D:\工作项目\NetworkDriver\UFormShareManage.dfm=D:\工作项目\NetworkDriver\UFormHistoryManage.dfm</Transaction>
+    <Transaction>2013/05/13 14:39:31.000.544,D:\工作项目\NetworkDriver\UFormShareManage.pas=D:\工作项目\NetworkDriver\UFormHistoryManage.pas</Transaction>
+    <Transaction>2013/05/14 12:01:24.000.842,=D:\工作项目\NetworkDriver\dirnotify.pas</Transaction>
+    <Transaction>2013/05/14 16:23:15.000.049,=D:\工作项目\NetworkDriver\Unit1.pas</Transaction>
+    <Transaction>2013/05/14 16:23:28.000.470,D:\工作项目\NetworkDriver\UFileWatchThread.pas=D:\工作项目\NetworkDriver\Unit1.pas</Transaction>
+    <Transaction>2013/05/14 16:56:05.000.177,=D:\工作项目\NetworkDriver\UFormConflict.pas</Transaction>
+    <Transaction>2013/05/15 10:14:09.000.871,=D:\工作项目\NetworkDriver\UFormAbout.pas</Transaction>
+    <Transaction>2013/05/15 11:09:30.000.384,=D:\工作项目\NetworkDriver\UMyUrl.pas</Transaction>
+    <Transaction>2013/05/27 09:37:45.000.650,D:\Program Files\My Software\UsbManager\Source\UsbManager.dproj=D:\Program Files\My Software\UsbManager\Source\NetworkDriver.dproj</Transaction>
+    <Transaction>2013/05/27 09:46:15.000.674,D:\Program Files\My Software\UsbManager\Source\UFormSelectShare.pas=</Transaction>
+    <Transaction>2013/05/27 09:46:15.000.697,D:\Program Files\My Software\UsbManager\Source\UFormShareManage.pas=</Transaction>
+    <Transaction>2013/05/27 09:46:43.000.663,=D:\Program Files\My Software\UsbManager\Source\UFormShareManage.pas</Transaction>
+    <Transaction>2013/05/27 09:46:43.000.637,=D:\Program Files\My Software\UsbManager\Source\UFormSelectShare.pas</Transaction>
+    <Transaction>2013/05/27 09:46:46.000.961,D:\Program Files\My Software\UsbManager\Source\UFormShareManage.pas=</Transaction>
+    <Transaction>2013/05/27 09:46:49.000.795,D:\Program Files\My Software\UsbManager\Source\UFormSelectShare.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
